@@ -1,1 +1,0 @@
-# tanlov_bot
