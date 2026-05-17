@@ -1,3 +1,5 @@
 __pycache__/
 ovozlar.db
-*.pyc
+ovozlar.db-shm
+ovozlar.db-wal
+*.pyo
